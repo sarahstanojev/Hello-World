@@ -6,7 +6,6 @@
 - [DESCRIPTION](#description)
 - [TOOLS USED](#tools-used)
 - [FILES USED](#files-used)
-- [HOW TO RUN PROGRAM](#how-to-run-program)
 - [ADDITIONAL INFORMATION](#additional-information)
 
 ## Project Title
@@ -29,4 +28,3 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 
 
-## Versioning
