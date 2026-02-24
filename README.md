@@ -25,7 +25,7 @@ I created this project as a practice exercise to learn how to use GitHub and cre
 ## Files Used
 
 - README.md – Contains the project title, description, tools used, and instructions.
-- Week 5 - Spr 26 - BAIS3050 - [Full File Name] – Course-related file uploaded for practice.
+- Week 5 - Spr 26 - BAIS3050 - [Case Interviews and Github.pptx] – Course-related file uploaded for practice.
 
 ## How To Run Program
 
