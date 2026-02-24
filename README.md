@@ -24,6 +24,15 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 
 
 
+## How To Run Program
+
+Hello_World/
+└── 
+    │── README.md
+    │── pgmname1.R
+    │── filename1.csv
+    │── examples.html
+   
 ## Additional Documentation
 
 
